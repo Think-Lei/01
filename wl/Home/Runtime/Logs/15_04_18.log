@@ -1,0 +1,3881 @@
+[ 2015-04-18T00:15:40+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006928s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007347s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006100s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.039745s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) LIMIT 1   [ RunTime:0.001966s ]
+
+[ 2015-04-18T00:15:40+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003953s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004284s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004141s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 15 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 15 行.
+NOTIC: [8] Undefined index: gender C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 15 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043285s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003195s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003104s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002842s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014840s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005066s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005318s ]
+
+[ 2015-04-18T01:22:10+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007826s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009449s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.017619s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) LIMIT 1   [ RunTime:0.001374s ]
+
+[ 2015-04-18T01:22:11+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004502s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004817s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003259s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062037s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002588s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002530s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002519s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012066s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003987s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004283s ]
+
+[ 2015-04-18T01:24:52+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004956s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005521s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004608s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.079682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079960s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003155s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003157s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003010s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013569s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004909s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005169s ]
+
+[ 2015-04-18T01:24:54+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003665s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003997s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004926s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.054857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055125s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003253s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004623s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002568s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015489s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004005s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004253s ]
+
+[ 2015-04-18T01:24:55+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004527s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004912s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005745s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.072687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073616s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004468s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012785s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003269s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024808s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005336s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005579s ]
+
+[ 2015-04-18T01:24:56+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005022s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005438s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005430s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.090247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090626s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005950s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006257s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004070s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022122s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005551s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005881s ]
+
+[ 2015-04-18T01:34:47+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008417s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008823s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004693s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.070123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070636s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003855s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005005s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003746s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018179s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005463s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005815s ]
+
+[ 2015-04-18T01:34:56+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010555s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011021s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005592s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025847s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.034309s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040768s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003199s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003115s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003696s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014518s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005104s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005357s ]
+
+[ 2015-04-18T01:35:08+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012295s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012614s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003525s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.017766s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001310s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040463s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002951s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003491s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003120s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013654s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004220s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004538s ]
+
+[ 2015-04-18T01:37:56+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007045s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004401s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021971s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014608010' ) LIMIT 1   [ RunTime:0.001974s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051648s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004221s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003416s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003416s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016745s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010454s ]
+INFO: [ view_end ] --END-- [ RunTime:0.010811s ]
+
+[ 2015-04-18T01:38:08+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.025576s ]
+INFO: [ route_check ] --END-- [ RunTime:0.025996s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021332s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016355s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.005060s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052145s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007538s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004029s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002760s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020548s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005614s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005909s ]
+
+[ 2015-04-18T01:38:41+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005355s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005779s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005125s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.022486s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014508010	' ) LIMIT 1   [ RunTime:0.004574s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053216s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002625s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002582s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003990s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014675s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005553s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005890s ]
+
+[ 2015-04-18T01:42:06+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7961977212689817
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006234s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006631s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004405s ]
+
+[ 2015-04-18T01:42:30+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008049s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007500s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057553s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003775s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003484s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003363s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016511s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005166s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005495s ]
+
+[ 2015-04-18T01:42:36+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8920566840097308
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004742s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005070s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002776s ]
+
+[ 2015-04-18T01:42:43+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005215s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005613s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004396s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.023096s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '' ) LIMIT 1   [ RunTime:0.003384s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.069954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070400s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003593s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004104s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004997s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018438s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006751s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007081s ]
+
+[ 2015-04-18T01:58:39+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006710s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004019s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041493s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003819s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002789s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002260s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012746s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003828s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004084s ]
+
+[ 2015-04-18T01:58:49+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.9018585560843349
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008170s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008571s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004126s ]
+
+[ 2015-04-18T01:58:57+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006612s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007010s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003915s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021501s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) LIMIT 1   [ RunTime:0.001900s ]
+
+[ 2015-04-18T01:58:57+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003720s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004039s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002780s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061874s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002543s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003631s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003536s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.011270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021832s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005644s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005905s ]
+
+[ 2015-04-18T02:03:47+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015272s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015691s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004839s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.109791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110275s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003756s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004479s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002965s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016591s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004791s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005125s ]
+
+[ 2015-04-18T02:03:51+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.032064877450466156
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005197s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005604s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003721s ]
+
+[ 2015-04-18T02:03:53+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.032064877450466156?0.9557122266851366
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004448s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004837s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004003s ]
+
+[ 2015-04-18T02:03:59+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005662s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006064s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004158s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+ERR: Unknown database 'shzu (1)'
+
+[ 2015-04-18T02:06:02+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5879072989337146
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007497s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007917s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007218s ]
+
+[ 2015-04-18T02:06:03+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5879072989337146?0.8587977001443505
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004462s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004987s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004823s ]
+
+[ 2015-04-18T02:06:04+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5879072989337146?0.8587977001443505?0.9279898128006607
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004670s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005073s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003543s ]
+
+[ 2015-04-18T02:06:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5879072989337146?0.8587977001443505?0.9279898128006607?0.19087059330195189
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004891s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005280s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004245s ]
+
+[ 2015-04-18T02:06:06+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5879072989337146?0.8587977001443505?0.9279898128006607?0.19087059330195189?0.7874933457933366
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003302s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003600s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002588s ]
+
+[ 2015-04-18T02:06:07+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5879072989337146?0.8587977001443505?0.9279898128006607?0.19087059330195189?0.7874933457933366?0.8734144673217088
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004624s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005017s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003469s ]
+
+[ 2015-04-18T02:06:08+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5879072989337146?0.8587977001443505?0.9279898128006607?0.19087059330195189?0.7874933457933366?0.8734144673217088?0.0968919473234564
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005081s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006748s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003680s ]
+
+[ 2015-04-18T02:06:15+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004835s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005232s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005415s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.022134s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001766s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.056829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057318s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006824s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006656s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024204s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005170s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005745s ]
+
+[ 2015-04-18T02:07:59+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.4844275494106114
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005989s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006382s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004218s ]
+
+[ 2015-04-18T02:08:06+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007472s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005011s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021812s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '134134' ) LIMIT 1   [ RunTime:0.001581s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.059163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059593s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003869s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004040s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003399s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017121s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006584s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006914s ]
+
+[ 2015-04-18T02:08:16+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005044s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005467s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005038s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) LIMIT 1   [ RunTime:0.002166s ]
+
+[ 2015-04-18T02:08:16+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004779s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005111s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003869s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049506s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049780s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003615s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003290s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003237s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014438s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004110s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004366s ]
+
+[ 2015-04-18T02:12:04+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7339784556534141
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006503s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006902s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004263s ]
+
+[ 2015-04-18T02:12:25+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004787s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005128s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003264s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.018209s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001716s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.046883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047238s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003397s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004720s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003016s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003650s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015583s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007834s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008160s ]
+
+[ 2015-04-18T02:17:44+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8125035376287997
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011069s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011377s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004836s ]
+
+[ 2015-04-18T02:17:46+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8125035376287997?0.9850018171127886
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006349s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006741s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003503s ]
+
+[ 2015-04-18T02:17:46+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8125035376287997?0.9850018171127886?0.1426982474513352
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003397s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003710s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002612s ]
+
+[ 2015-04-18T02:17:47+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8125035376287997?0.9850018171127886?0.1426982474513352?0.5564997226465493
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006535s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006965s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003627s ]
+
+[ 2015-04-18T02:17:54+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009322s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009749s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004681s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.022121s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = null ) AND ( `password` = '2014508010	' ) LIMIT 1   [ RunTime:0.001761s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042395s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002781s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002946s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013207s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003959s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004217s ]
+
+[ 2015-04-18T02:17:59+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003475s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003777s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002686s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038902s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002364s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004370s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002096s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012920s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003880s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004135s ]
+
+[ 2015-04-18T02:17:59+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003456s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003724s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002291s ]
+
+[ 2015-04-18T02:18:01+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.9414548655040562
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005057s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005376s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002749s ]
+
+[ 2015-04-18T02:18:17+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004974s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005501s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003609s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.042546s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.002074s ]
+
+[ 2015-04-18T02:18:17+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005977s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003630s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.066250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066623s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003386s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003945s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003627s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016221s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005390s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005728s ]
+
+[ 2015-04-18T02:28:31+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005956s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003421s ]
+
+[ 2015-04-18T02:28:55+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004104s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004416s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003273s ]
+
+[ 2015-04-18T02:29:22+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007583s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007996s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004660s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024613s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001904s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: Data C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061012s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005400s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004071s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003852s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003723s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018352s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005418s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005753s ]
+
+[ 2015-04-18T02:29:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.4473619512282312
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003334s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003643s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003346s ]
+
+[ 2015-04-18T02:29:39+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003482s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003776s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002637s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016990s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.002964s ]
+
+[ 2015-04-18T02:29:39+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003138s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003403s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002312s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.013900s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001105s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: Data C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039599s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002348s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002203s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002746s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010439s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003998s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004235s ]
+
+[ 2015-04-18T02:32:11+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004189s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004549s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003048s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016730s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001225s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: dsata C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036947s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002829s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002156s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001782s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011028s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002865s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003084s ]
+
+[ 2015-04-18T02:32:20+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.9400009026285261
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008730s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009220s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004524s ]
+
+[ 2015-04-18T02:32:28+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003466s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003788s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003242s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016293s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.002636s ]
+
+[ 2015-04-18T02:32:28+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003700s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004059s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005050s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.014716s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001328s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: dsata C:\wamp\www\shzu\Home\Runtime\Cache\e30c39b97405d9bb1d1c0835c4ca54b7.php 第 30 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040776s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002973s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002465s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002131s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010714s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003077s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003315s ]
+
+[ 2015-04-18T02:46:47+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014328s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014679s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005441s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016166s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.002257s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.062128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062504s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007737s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.009655s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002759s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024546s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004326s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004725s ]
+
+[ 2015-04-18T02:47:04+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007982s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008281s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004176s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021321s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001375s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.044389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044706s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002625s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002768s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002171s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003957s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012324s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003562s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003821s ]
+
+[ 2015-04-18T03:15:34+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.4529454812873155
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006475s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006859s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004212s ]
+
+[ 2015-04-18T03:15:51+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004623s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004913s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002641s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016315s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001129s ]
+
+[ 2015-04-18T03:15:51+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004416s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004718s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002802s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016780s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001532s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.065994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066315s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004215s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003114s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002748s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015128s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004115s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004367s ]
+
+[ 2015-04-18T03:16:11+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8000564696267247
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006508s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007169s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004469s ]
+
+[ 2015-04-18T03:16:12+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8000564696267247?0.43211648473516107
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006304s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006688s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003482s ]
+
+[ 2015-04-18T03:16:18+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005571s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005968s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003924s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.017387s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001291s ]
+
+[ 2015-04-18T03:17:11+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7315845673438162
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004473s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004853s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003539s ]
+
+[ 2015-04-18T03:17:19+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.038682s ]
+INFO: [ route_check ] --END-- [ RunTime:0.039051s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002974s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.017094s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001225s ]
+
+[ 2015-04-18T03:19:01+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005159s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005461s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004369s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016179s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001532s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.044886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045232s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002454s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003485s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012179s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003991s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004235s ]
+
+[ 2015-04-18T03:19:08+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8082923465408385
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006893s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007282s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004373s ]
+
+[ 2015-04-18T03:19:15+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007732s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004442s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021535s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001518s ]
+
+[ 2015-04-18T03:25:56+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.10830584773793817
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007470s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007970s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004641s ]
+
+[ 2015-04-18T03:25:57+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.10830584773793817?0.9713990101590753
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004976s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005390s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003649s ]
+
+[ 2015-04-18T03:26:04+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011214s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011612s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004677s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.015616s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001500s ]
+
+[ 2015-04-18T03:26:16+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003607s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003912s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002756s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.023872s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = 'azazhb' ) LIMIT 1   [ RunTime:0.001189s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036105s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003904s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002568s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002042s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012092s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003572s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003817s ]
+
+[ 2015-04-18T03:26:24+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004529s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004907s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004852s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.015989s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '' ) LIMIT 1   [ RunTime:0.001089s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035267s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002448s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002474s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003828s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002852s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012445s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003376s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003614s ]
+
+[ 2015-04-18T03:26:30+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.061377s ]
+INFO: [ route_check ] --END-- [ RunTime:0.061686s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016552s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = 'xb ' ) LIMIT 1   [ RunTime:0.001268s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050493s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001903s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002159s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001600s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008889s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002791s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003035s ]
+
+[ 2015-04-18T03:26:38+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006278s ]
+INFO: [ route_check ] --END-- [ RunTime:0.021695s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002775s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.015717s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001722s ]
+
+[ 2015-04-18T03:27:04+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007623s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007996s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006379s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.023894s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '' ) LIMIT 1   [ RunTime:0.001193s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033364s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002139s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002002s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001527s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008572s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002926s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003171s ]
+
+[ 2015-04-18T03:27:16+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006835s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007233s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004898s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043119s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005966s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002024s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001644s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013192s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003598s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003846s ]
+
+[ 2015-04-18T03:27:27+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003605s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004096s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002654s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052400s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001897s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002004s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001532s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002514s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008658s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002802s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003040s ]
+
+[ 2015-04-18T03:27:45+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003520s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003827s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002681s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037006s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004003s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002305s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001806s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011048s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003542s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003789s ]
+
+[ 2015-04-18T03:27:49+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.608121405588463
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005907s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006471s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003501s ]
+
+[ 2015-04-18T03:27:51+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.608121405588463?0.05109217553399503
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004415s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004793s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003523s ]
+
+[ 2015-04-18T03:27:53+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.608121405588463?0.05109217553399503?0.6718289109412581
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004471s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004857s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004560s ]
+
+[ 2015-04-18T03:28:02+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004651s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004951s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003604s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.015904s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.004520s ]
+
+[ 2015-04-18T03:29:29+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004888s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006075s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003673s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.015695s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001412s ]
+
+[ 2015-04-18T03:30:02+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012666s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012972s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004102s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042706s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002965s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002699s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002391s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011714s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004290s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004540s ]
+
+[ 2015-04-18T03:30:02+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012018s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012302s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007949s ]
+
+[ 2015-04-18T03:30:12+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004877s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005212s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003481s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.015853s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001130s ]
+
+[ 2015-04-18T03:30:48+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005666s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005985s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002608s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038086s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038398s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002641s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004109s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002655s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013558s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003839s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004091s ]
+
+[ 2015-04-18T03:30:52+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005475s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005881s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003738s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.070205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070521s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001864s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002817s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002942s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011691s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003730s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003977s ]
+
+[ 2015-04-18T03:31:07+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003751s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004892s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002664s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019592s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001628s ]
+
+[ 2015-04-18T03:35:29+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005240s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005607s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005091s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.124030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124394s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003370s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004010s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002680s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014664s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004032s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004302s ]
+
+[ 2015-04-18T03:35:31+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003768s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004044s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002448s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.142294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142595s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001692s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001868s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003801s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003849s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011877s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003265s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003484s ]
+
+[ 2015-04-18T03:35:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003292s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003823s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002451s ]
+
+[ 2015-04-18T03:35:36+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004785s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005185s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003560s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.063735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064153s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005878s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003199s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002104s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017122s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007896s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008239s ]
+
+[ 2015-04-18T03:35:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003138s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003414s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007983s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062337s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001778s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.017287s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003662s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.028788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.052312s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004631s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004852s ]
+
+[ 2015-04-18T03:41:06+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007175s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007581s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005287s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.120700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121096s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002858s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003162s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002498s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012652s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004994s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005269s ]
+
+[ 2015-04-18T03:41:07+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005401s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005730s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010157s ]
+
+[ 2015-04-18T03:41:19+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.019515s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019916s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006472s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026329s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.002350s ]
+
+[ 2015-04-18T03:41:55+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004356s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004633s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002467s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.015682s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001349s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039112s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002067s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001859s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002901s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011944s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003473s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003803s ]
+
+[ 2015-04-18T03:43:53+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005209s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005471s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003872s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040290s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002079s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002416s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002071s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009861s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003238s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003463s ]
+
+[ 2015-04-18T03:43:53+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003925s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003828s ]
+
+[ 2015-04-18T03:44:05+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006776s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007213s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007129s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.017813s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001536s ]
+
+[ 2015-04-18T03:44:07+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005423s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005835s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004545s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019955s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001376s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048542s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002583s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002633s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002782s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012147s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003433s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003675s ]
+
+[ 2015-04-18T03:44:08+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003548s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003859s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003015s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.014644s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001344s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.036437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036714s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001989s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002128s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.010560s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017783s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002542s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002755s ]
+
+[ 2015-04-18T03:44:54+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016820s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017234s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008875s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.022355s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.012138s ]
+
+[ 2015-04-18T03:45:08+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014075s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014522s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003888s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016452s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.002004s ]
+
+[ 2015-04-18T12:02:04+08:00 ] 127.0.0.1 /shzu/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004332s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009280s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.003809s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002815s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002360s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012801s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004034s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004294s ]
+
+[ 2015-04-18T12:02:29+08:00 ] 127.0.0.1 /shzu/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007418s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004578s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050900s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003575s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003982s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002929s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017069s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003586s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003945s ]
+
+[ 2015-04-18T12:02:29+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003599s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003921s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003939s ]
+
+[ 2015-04-18T12:02:41+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5389795226510614
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004608s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003663s ]
+
+[ 2015-04-18T12:02:41+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5389795226510614?0.7730814032256603
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004635s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004942s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002614s ]
+
+[ 2015-04-18T12:02:48+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007178s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007589s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005146s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026208s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123456' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.002882s ]
+NOTIC: [8] Undefined variable: id C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 39 行.
+
+[ 2015-04-18T12:02:48+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004730s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005096s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003724s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039607s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003258s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002581s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002372s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012777s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003543s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003789s ]
+
+[ 2015-04-18T12:03:07+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5800550268031657
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010446s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010770s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003421s ]
+
+[ 2015-04-18T12:03:14+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005397s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005823s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004005s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025895s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001523s ]
+NOTIC: [8] Undefined variable: id C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 39 行.
+
+[ 2015-04-18T12:03:15+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004830s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005472s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.020397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020808s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056312s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002773s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002943s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002061s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012726s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.010183s ]
+INFO: [ view_end ] --END-- [ RunTime:0.010605s ]
+
+[ 2015-04-18T12:04:51+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006754s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007231s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004671s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.110756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111394s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006808s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011705s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008743s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.032865s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.019468s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019820s ]
+
+[ 2015-04-18T12:04:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003857s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004185s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004471s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055417s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002544s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003102s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002127s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011359s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003718s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003973s ]
+
+[ 2015-04-18T12:04:58+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007457s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012207s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005242s ]
+
+[ 2015-04-18T12:05:02+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.9166458947584033
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006073s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006475s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003535s ]
+
+[ 2015-04-18T12:05:10+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005085s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005456s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003550s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.040705s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.011560s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 39 行.
+
+[ 2015-04-18T12:05:10+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003596s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003909s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003004s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037946s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002107s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004175s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001802s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002994s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012055s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004673s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004934s ]
+
+[ 2015-04-18T12:06:27+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003893s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004343s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003150s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025292s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001707s ]
+
+[ 2015-04-18T12:06:27+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004055s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004515s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002703s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019057s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001423s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048308s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002380s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002172s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002312s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010780s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003232s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003486s ]
+
+[ 2015-04-18T12:37:46+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005209s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005526s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003483s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019945s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001568s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.091643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092065s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002783s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002883s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002169s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003874s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012504s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003824s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004095s ]
+
+[ 2015-04-18T12:37:48+08:00 ] 127.0.0.1 /shzu/index.php/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003468s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003764s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002633s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035939s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002088s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001951s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001912s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009281s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002825s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003068s ]
+
+[ 2015-04-18T12:37:48+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003384s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003705s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002577s ]
+
+[ 2015-04-18T12:37:50+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004860s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005161s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002937s ]
+ERR: 无法加载模块:Add
+
+[ 2015-04-18T12:38:49+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007103s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007525s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005705s ]
+ERR: 无法加载模块:Add
+
+[ 2015-04-18T12:39:17+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003284s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003549s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003583s ]
+ERR: 无法加载模块:Add
+
+[ 2015-04-18T12:40:09+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007022s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007426s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004948s ]
+ERR: 无法加载模块:Add
+
+[ 2015-04-18T12:41:25+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008103s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008511s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004392s ]
+ERR: 无法加载模块:Add
+
+[ 2015-04-18T12:44:04+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006694s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007397s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005150s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.056146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056569s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003291s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004678s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003846s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026294s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006363s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006749s ]
+
+[ 2015-04-18T12:49:19+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006404s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006723s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.025080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026824s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055633s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003547s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003343s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002578s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014132s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006805s ]
+
+[ 2015-04-18T12:49:20+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003921s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004248s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002686s ]
+
+[ 2015-04-18T12:49:22+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.8600930883549154
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003470s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004566s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003048s ]
+
+[ 2015-04-18T12:49:41+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006678s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007283s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005947s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.147439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.147865s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.012773s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.044719s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003026s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.071599s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003603s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003851s ]
+
+[ 2015-04-18T12:49:50+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004564s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004958s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004501s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026086s ]
+SQL: INSERT INTO `shzu_imformation` (`username`,`password`) VALUES ('123','123') [ RunTime:0.015335s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061916s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002820s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002734s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002032s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011577s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004955s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005289s ]
+
+[ 2015-04-18T12:49:51+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005443s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005770s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002893s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046199s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006929s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004483s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001733s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002753s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016953s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003964s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004225s ]
+
+[ 2015-04-18T12:49:51+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003902s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004246s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003111s ]
+
+[ 2015-04-18T12:50:47+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003807s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004138s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003599s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034175s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002519s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.013784s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001858s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021155s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002913s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003165s ]
+
+[ 2015-04-18T12:50:47+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004054s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004414s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004623s ]
+
+[ 2015-04-18T12:50:55+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7751686477568
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003611s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003921s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003843s ]
+
+[ 2015-04-18T12:51:00+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008236s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008674s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003747s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019743s ]
+SQL: INSERT INTO `shzu_imformation` (`username`,`password`) VALUES ('123','123') [ RunTime:0.041210s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053997s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006078s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002908s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001735s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013674s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003553s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003805s ]
+
+[ 2015-04-18T12:51:02+08:00 ] 127.0.0.1 /shzu/index.php/Add/User/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004125s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004406s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002610s ]
+ERR: 非法操作:User
+
+[ 2015-04-18T12:51:29+08:00 ] 127.0.0.1 /shzu/index.php/Add/User/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004677s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005779s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004826s ]
+ERR: 非法操作:User
+
+[ 2015-04-18T12:51:31+08:00 ] 127.0.0.1 /shzu/index.php/Add/User/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005031s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005443s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003834s ]
+ERR: 非法操作:User
+
+[ 2015-04-18T12:51:34+08:00 ] 127.0.0.1 /shzu/index.php/Add/User/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005408s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005833s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005326s ]
+ERR: 非法操作:User
+
+[ 2015-04-18T12:51:59+08:00 ] 127.0.0.1 /shzu/index.php/Add/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008645s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009156s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005549s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058263s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003645s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004625s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004061s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.009409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022727s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008389s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008746s ]
+
+[ 2015-04-18T12:51:59+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005036s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005444s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003924s ]
+
+[ 2015-04-18T12:52:08+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5980224581435323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004936s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005451s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004417s ]
+
+[ 2015-04-18T12:52:14+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005089s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005519s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003964s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025487s ]
+SQL: INSERT INTO `shzu_imformation` (`username`,`password`) VALUES ('123','123') [ RunTime:0.010330s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053421s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003563s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004972s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003555s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017468s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006939s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007322s ]
+
+[ 2015-04-18T12:52:15+08:00 ] 127.0.0.1 /shzu/index.php/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006198s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006683s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004142s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.056422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056861s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004452s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002898s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002064s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015442s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004245s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004755s ]
+
+[ 2015-04-18T12:52:15+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009187s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009603s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005645s ]
+
+[ 2015-04-18T12:53:06+08:00 ] 127.0.0.1 /shzu/index.php/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004952s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005266s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003647s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038377s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001856s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002083s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002069s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009882s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002858s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003112s ]
+
+[ 2015-04-18T12:53:06+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003679s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003983s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010145s ]
+
+[ 2015-04-18T12:53:08+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005072s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005596s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003855s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050565s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002891s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003909s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002198s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013409s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005050s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005390s ]
+
+[ 2015-04-18T12:53:08+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003578s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003896s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014161s ]
+
+[ 2015-04-18T12:53:09+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004755s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005161s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004378s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.068425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068849s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002562s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003307s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003602s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013616s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005129s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005586s ]
+
+[ 2015-04-18T12:53:16+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005857s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006259s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003816s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049717s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003244s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002596s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002192s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013839s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003957s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004288s ]
+
+[ 2015-04-18T12:53:44+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.6177425063215196
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004485s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004873s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003472s ]
+
+[ 2015-04-18T12:53:48+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005469s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005871s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003726s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019877s ]
+SQL: INSERT INTO `shzu_imformation` (`username`,`password`) VALUES ('123','123') [ RunTime:0.008206s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049135s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005894s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002192s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002721s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014155s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002889s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003136s ]
+
+[ 2015-04-18T12:53:49+08:00 ] 127.0.0.1 /shzu/index.php/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006213s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006578s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003102s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.205417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.209696s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003618s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002126s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001758s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012154s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003367s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003612s ]
+
+[ 2015-04-18T12:53:50+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007489s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007814s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007859s ]
+
+[ 2015-04-18T12:54:03+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005056s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005713s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003834s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.023992s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001486s ]
+
+[ 2015-04-18T12:54:04+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006015s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006332s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004861s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019590s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001627s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042166s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002759s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002115s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001749s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009881s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003652s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003916s ]
+
+[ 2015-04-18T12:54:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008146s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008561s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007654s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025521s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.001723s ]
+
+[ 2015-04-18T12:54:58+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013576s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013990s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004526s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.054054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054500s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003968s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003857s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004981s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003937s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018883s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005059s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005403s ]
+
+[ 2015-04-18T13:59:54+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003915s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004175s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003883s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016617s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.001190s ]
+
+[ 2015-04-18T13:59:54+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003753s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004044s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002627s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034780s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002286s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002574s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002296s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010709s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003653s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003999s ]
+
+[ 2015-04-18T14:00:08+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008148s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008992s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004839s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025295s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.004443s ]
+
+[ 2015-04-18T14:00:09+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007143s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007722s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026020s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.002110s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.064030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064452s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006165s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004212s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003029s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018538s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012871s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013550s ]
+
+[ 2015-04-18T14:00:12+08:00 ] 127.0.0.1 /shzu/index.php/User/delete/id/%3C7%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005962s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006419s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003910s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024169s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.092875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093384s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002630s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002714s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002214s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012621s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004003s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004360s ]
+
+[ 2015-04-18T14:10:31+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009194s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009516s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004263s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.018458s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001577s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049706s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003380s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002997s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002612s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013110s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004335s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004591s ]
+
+[ 2015-04-18T14:10:35+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/%3C7%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.022973s ]
+INFO: [ route_check ] --END-- [ RunTime:0.023396s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003643s ]
+ERR: 非法操作:delete
+
+[ 2015-04-18T14:14:07+08:00 ] 127.0.0.1 /shzu/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006062s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008916s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010388s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.004095s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005010s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004358s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020901s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008465s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008817s ]
+
+[ 2015-04-18T14:14:14+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007241s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007676s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006044s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.044914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045266s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002568s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002862s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003844s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002944s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013015s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003412s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003658s ]
+
+[ 2015-04-18T14:14:15+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004624s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004992s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003418s ]
+
+[ 2015-04-18T14:14:26+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005367s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005774s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003858s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.033715s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.003915s ]
+
+[ 2015-04-18T14:14:26+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004100s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004425s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003046s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033920s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001982s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002005s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001697s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002646s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009140s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003724s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003973s ]
+
+[ 2015-04-18T14:14:36+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008103s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014392s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004889s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024872s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.002017s ]
+
+[ 2015-04-18T14:14:36+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004542s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004878s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004465s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024558s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001726s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048046s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003128s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002795s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002493s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012384s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004944s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005200s ]
+
+[ 2015-04-18T14:14:40+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/%3C6%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020373s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020781s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003944s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025237s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034629s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002010s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002479s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001631s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009891s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003068s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003333s ]
+
+[ 2015-04-18T14:14:41+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006104s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006529s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003961s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024893s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.003769s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060332s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002215s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002468s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001858s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009901s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003251s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003521s ]
+
+[ 2015-04-18T14:14:58+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/%3C5%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005741s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003930s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.029720s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047481s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002580s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004426s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002294s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013799s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004977s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005323s ]
+
+[ 2015-04-18T14:15:00+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005966s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006383s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005110s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.037896s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.005195s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.051751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052086s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002646s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002504s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001926s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011222s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002995s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003251s ]
+
+[ 2015-04-18T14:15:09+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/%3C6%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006148s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006610s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.027995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028306s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019374s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054293s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002790s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003929s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002407s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005999s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016375s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005781s ]
+
+[ 2015-04-18T14:15:10+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006858s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007335s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004294s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025145s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001739s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050718s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002425s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002949s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001773s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002948s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010865s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002943s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003195s ]
+
+[ 2015-04-18T14:15:13+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004751s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005659s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003836s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024845s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001903s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058076s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003005s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003091s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002091s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012159s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005508s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005874s ]
+
+[ 2015-04-18T14:15:23+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/%3C4%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005441s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005943s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004678s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.036925s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050053s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002401s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002422s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001673s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013451s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003541s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005700s ]
+
+[ 2015-04-18T14:15:24+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005174s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006518s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006021s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021628s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001989s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.046004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046327s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002470s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002484s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001796s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010006s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003753s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004014s ]
+
+[ 2015-04-18T14:15:48+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005844s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006321s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004335s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.027439s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.008942s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.071557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072007s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.008996s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002578s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021658s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004353s ]
+
+[ 2015-04-18T14:15:51+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/%3C7%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011221s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011697s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003026s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019882s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049372s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002158s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002816s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001700s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002650s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010066s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004445s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004704s ]
+
+[ 2015-04-18T14:19:20+08:00 ] 127.0.0.1 /shzu/index.php/User/modify/id/%3C7%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009630s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010054s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004915s ]
+ERR: 非法操作:modify
+
+[ 2015-04-18T14:19:30+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/%3C7%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017816s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018272s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007911s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.042978s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.046823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047193s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004246s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002927s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003424s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014514s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003704s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003955s ]
+
+[ 2015-04-18T14:22:28+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007276s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007686s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004776s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.030162s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.002124s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.070374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070761s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002695s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002701s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002516s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012070s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003665s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003944s ]
+
+[ 2015-04-18T14:22:30+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003881s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004547s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002425s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.017881s ]
+SQL: DELETE FROM `shzu_imformation` WHERE ( `id` = 7 ) [ RunTime:0.024951s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027731s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028020s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001892s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002077s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001392s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007979s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002506s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002718s ]
+
+[ 2015-04-18T14:22:31+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005638s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006064s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003705s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.020309s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001616s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043908s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002052s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002066s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001941s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009185s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002891s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003140s ]
+
+[ 2015-04-18T14:22:37+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005658s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006078s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003883s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025969s ]
+SQL: DELETE FROM `shzu_imformation` WHERE ( `id` = 5 ) [ RunTime:0.007364s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034647s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002222s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002218s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001991s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010057s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003067s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003325s ]
+
+[ 2015-04-18T14:22:38+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006578s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006987s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004329s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019631s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001543s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.056184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056509s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002064s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003043s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003707s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012046s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003660s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004022s ]
+
+[ 2015-04-18T15:20:31+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005202s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005528s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005965s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.023492s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.003208s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062099s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003665s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002778s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002170s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012295s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003987s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004323s ]
+
+[ 2015-04-18T15:20:34+08:00 ] 127.0.0.1 /shzu/index.php/Update/update
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010485s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012303s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003711s ]
+ERR: 无法加载模块:Update
+
+[ 2015-04-18T15:21:48+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010456s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010990s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004565s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.018951s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.002042s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047407s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002655s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003291s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002126s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011676s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004252s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004580s ]
+
+[ 2015-04-18T15:21:59+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003656s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003967s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002793s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033994s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002450s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002142s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002522s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010416s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003092s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003345s ]
+
+[ 2015-04-18T15:22:00+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004515s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004845s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003503s ]
+
+[ 2015-04-18T15:22:07+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008293s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008720s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005762s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051050s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002862s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003370s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002139s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012374s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004823s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005166s ]
+
+[ 2015-04-18T15:22:07+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004514s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004897s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002994s ]
+
+[ 2015-04-18T15:22:17+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006883s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007288s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003872s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025108s ]
+SQL: INSERT INTO `shzu_imformation` (`username`,`password`) VALUES ('adf','af') [ RunTime:0.009817s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060473s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002974s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003478s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002508s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014241s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003785s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004255s ]
+
+[ 2015-04-18T15:22:18+08:00 ] 127.0.0.1 /shzu/index.php/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003384s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003709s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031165s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001926s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002965s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001794s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009820s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003910s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004151s ]
+
+[ 2015-04-18T15:22:18+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003407s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003676s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002536s ]
+
+[ 2015-04-18T15:22:39+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005289s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005869s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004643s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.027009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = 'asd' ) AND ( `password` = 'fdsg' ) LIMIT 1   [ RunTime:0.001851s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.079654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080224s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001954s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003714s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002135s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012017s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002980s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003526s ]
+
+[ 2015-04-18T15:22:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007451s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007875s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004568s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024908s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.002328s ]
+
+[ 2015-04-18T15:22:58+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006990s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007310s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002811s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061955s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003382s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003655s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002305s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021723s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.015192s ]
+INFO: [ view_end ] --END-- [ RunTime:0.015556s ]
+
+[ 2015-04-18T15:31:42+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007920s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008328s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004544s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.027068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.001891s ]
+
+[ 2015-04-18T15:31:42+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004757s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005545s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003733s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\UserAction.class.php 第 9 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\shzu\Home\Lib\Action\UserAction.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036224s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002600s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002643s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002192s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003931s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012421s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003792s ]
+
+[ 2015-04-18T15:35:32+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009212s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009705s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005194s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019503s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.001343s ]
+
+[ 2015-04-18T15:35:33+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003831s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004158s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002932s ]
+
+[ 2015-04-18T15:37:11+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006052s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006454s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003693s ]
+
+[ 2015-04-18T15:40:24+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007164s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007563s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004640s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024844s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.002121s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055536s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003771s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004778s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003920s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003868s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017309s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005671s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006011s ]
+
+[ 2015-04-18T15:41:22+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008014s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008417s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004476s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.023731s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001872s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.062137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062560s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003441s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005450s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003325s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019225s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007689s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008022s ]
+
+[ 2015-04-18T15:59:18+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007956s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008501s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005679s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.027203s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001883s ]
+
+[ 2015-04-18T15:59:18+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005407s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006073s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005523s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024466s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.003823s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060455s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003530s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002585s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002620s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002923s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012401s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003495s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003768s ]
+
+[ 2015-04-18T15:59:27+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009719s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010131s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.019679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020106s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021240s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.002305s ]
+
+[ 2015-04-18T15:59:27+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003471s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003777s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010314s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.021880s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001442s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050155s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002705s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006846s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002848s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015616s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004018s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004265s ]
+
+[ 2015-04-18T16:00:25+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006046s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006648s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003573s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026108s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.001916s ]
+
+[ 2015-04-18T16:00:25+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003974s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004285s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011490s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.037302s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.002175s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003876s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002230s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001840s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002904s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011653s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003732s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003992s ]
+
+[ 2015-04-18T16:00:34+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006089s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007068s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004194s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.024167s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001641s ]
+
+[ 2015-04-18T16:00:34+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003468s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003782s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003426s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019136s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.002062s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052949s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002169s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002305s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001965s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010010s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003726s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003978s ]
+
+[ 2015-04-18T16:00:37+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/8
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005312s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007104s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003860s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.038979s ]
+SQL: DELETE FROM `shzu_imformation` WHERE ( `id` = 8 ) [ RunTime:0.013148s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.034164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034491s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001982s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001708s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009115s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003188s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003450s ]
+
+[ 2015-04-18T16:00:38+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006023s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006459s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004767s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.023279s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.005560s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041039s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002025s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002425s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002124s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009734s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003017s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003268s ]
+
+[ 2015-04-18T16:00:42+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005504s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005916s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003695s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025976s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001898s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.072093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072504s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005356s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003688s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002458s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015894s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003948s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004508s ]
+
+[ 2015-04-18T18:05:39+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008466s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008894s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006987s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025750s ]
+SQL: DELETE FROM `shzu_imformation` WHERE ( `id` = 6 ) [ RunTime:0.041104s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.064266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064699s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003529s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003816s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004250s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017371s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006099s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006572s ]
+
+[ 2015-04-18T18:05:41+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006775s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007238s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003774s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.047305s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001883s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057974s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004241s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002833s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002392s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013955s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004362s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004693s ]
+
+[ 2015-04-18T18:05:45+08:00 ] 127.0.0.1 /shzu/index.php/Admin/delete/id/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007433s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007835s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008103s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.025885s ]
+SQL: DELETE FROM `shzu_imformation` WHERE ( `id` = 2 ) [ RunTime:0.011553s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.094597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095005s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002661s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005137s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008499s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021125s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003770s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004105s ]
+
+[ 2015-04-18T18:05:46+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004187s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004564s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002952s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019157s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001472s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.044124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044436s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002894s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002194s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001623s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012652s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002937s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003202s ]
+
+[ 2015-04-18T18:05:53+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003914s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004341s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003097s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026938s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001616s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044027s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001978s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002032s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001976s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009077s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003128s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003388s ]
+
+[ 2015-04-18T18:06:03+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007493s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007920s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004744s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053090s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003508s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003264s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002823s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015246s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004864s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005246s ]
+
+[ 2015-04-18T18:06:03+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003636s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003959s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002940s ]
+
+[ 2015-04-18T18:06:25+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006184s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006603s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004772s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026189s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) AND ( `password` = '2014508010' ) LIMIT 1   [ RunTime:0.001636s ]
+
+[ 2015-04-18T18:06:25+08:00 ] 127.0.0.1 /shzu/index.php/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004851s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005261s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003779s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019852s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.001871s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041526s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001900s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001930s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002008s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008976s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003453s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003699s ]
+
+[ 2015-04-18T18:06:33+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005503s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005913s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004735s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.026944s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '123' ) AND ( `password` = '123' ) LIMIT 1   [ RunTime:0.002613s ]
+
+[ 2015-04-18T18:06:34+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005265s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005748s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003082s ]
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.020774s ]
+SQL: SELECT * FROM `shzu_imformation`  [ RunTime:0.005121s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.037491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037852s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001956s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002111s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001819s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009242s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003427s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003684s ]
+
+[ 2015-04-18T18:06:55+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004818s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005259s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004181s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.048868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049293s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002903s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002966s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002104s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003007s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011982s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005767s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006101s ]
+
+[ 2015-04-18T18:06:55+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004421s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002841s ]
+
+[ 2015-04-18T18:06:58+08:00 ] 127.0.0.1 /shzu/index.php/Add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005039s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005498s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004530s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044620s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003103s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002706s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002048s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002865s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011659s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004360s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004747s ]
+
+[ 2015-04-18T18:06:59+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004886s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005287s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005649s ]
+
+[ 2015-04-18T18:07:04+08:00 ] 127.0.0.1 /shzu/index.php/Add/add
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005107s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005522s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005500s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053920s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002134s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003878s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001725s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010744s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003002s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003252s ]
+

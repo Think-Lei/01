@@ -1,0 +1,3338 @@
+[ 2015-04-17T15:41:37+08:00 ] 127.0.0.1 /shzu/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006492s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.109978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110437s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.016982s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006926s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.026501s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.058252s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012813s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013150s ]
+
+[ 2015-04-17T16:08:42+08:00 ] 127.0.0.1 /shzu/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004533s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006786s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' C:\wamp\www\shzu\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.003401s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003227s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003122s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003650s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014101s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004043s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004283s ]
+
+[ 2015-04-17T16:08:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007070s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005163s ]
+ERR: 无法加载模块:Login
+
+[ 2015-04-17T16:22:53+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009859s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010281s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005729s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:22:55+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013396s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013851s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016197s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:22:57+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006594s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007004s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006019s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:12+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010441s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010762s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004668s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:14+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007242s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007573s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003954s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:14+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005434s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005777s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004242s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:15+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004226s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004503s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004080s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:15+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005175s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005447s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004178s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:15+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004735s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005013s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003334s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:15+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009349s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009627s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012234s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:16+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.045146s ]
+INFO: [ route_check ] --END-- [ RunTime:0.045942s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021957s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:16+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005979s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006371s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004425s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:35+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007076s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007487s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005647s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061117s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005549s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004321s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004107s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019657s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007318s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007650s ]
+
+[ 2015-04-17T16:24:36+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005699s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006085s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004189s ]
+ERR: 无法加载模块:Public
+
+[ 2015-04-17T16:24:50+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010626s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011043s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005742s ]
+ERR: 非法操作:index.php
+
+[ 2015-04-17T16:24:53+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007998s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008471s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.065959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.066381s ]
+ERR: 无法加载模块:Public
+
+[ 2015-04-17T16:25:05+08:00 ] 127.0.0.1 /shzu/index.php/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005434s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005801s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004513s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042412s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002925s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002980s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002899s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014232s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004604s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004849s ]
+
+[ 2015-04-17T16:25:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007453s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007849s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004078s ]
+ERR: 无法加载模块:Public
+
+[ 2015-04-17T16:25:10+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007079s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007529s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004492s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.059647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060251s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004383s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004242s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005270s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019305s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005221s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005600s ]
+
+[ 2015-04-17T16:25:10+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004683s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005005s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004162s ]
+ERR: 无法加载模块:Public
+
+[ 2015-04-17T16:25:13+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3895837627351284
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016013s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016446s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009623s ]
+ERR: 无法加载模块:Public
+
+[ 2015-04-17T16:39:24+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3895837627351284?0.9252947729546577
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014579s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015273s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005072s ]
+ERR: 无法加载模块:Public
+
+[ 2015-04-17T16:52:51+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005374s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005681s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004173s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.123887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124210s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004465s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002747s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002384s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014429s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004766s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005015s ]
+
+[ 2015-04-17T16:52:51+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004279s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004546s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003871s ]
+
+[ 2015-04-17T16:52:53+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006028s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006322s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003654s ]
+
+[ 2015-04-17T16:52:57+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003?0.9850354893133044
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.019055s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019480s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006499s ]
+
+[ 2015-04-17T16:52:57+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003?0.9850354893133044?0.5580297268461436
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006460s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007049s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005381s ]
+
+[ 2015-04-17T16:52:58+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003?0.9850354893133044?0.5580297268461436?0.1417640303261578
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007045s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007450s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005104s ]
+
+[ 2015-04-17T16:53:00+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003?0.9850354893133044?0.5580297268461436?0.1417640303261578?0.42918597417883575
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009530s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009988s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005641s ]
+
+[ 2015-04-17T16:53:04+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003?0.9850354893133044?0.5580297268461436?0.1417640303261578?0.42918597417883575?0.5180269340053201
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006462s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007416s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008026s ]
+
+[ 2015-04-17T16:53:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003?0.9850354893133044?0.5580297268461436?0.1417640303261578?0.42918597417883575?0.5180269340053201?0.9106400283053517
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009339s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009736s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005813s ]
+
+[ 2015-04-17T16:53:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.30213144258596003?0.9850354893133044?0.5580297268461436?0.1417640303261578?0.42918597417883575?0.5180269340053201?0.9106400283053517?0.07312770118005574
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.022237s ]
+INFO: [ route_check ] --END-- [ RunTime:0.022640s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009907s ]
+
+[ 2015-04-17T16:57:28+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007808s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008303s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007074s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.062510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062940s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004332s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004692s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020238s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007660s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008007s ]
+
+[ 2015-04-17T16:57:28+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006444s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006995s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004693s ]
+
+[ 2015-04-17T16:57:30+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016064s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016477s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010348s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053274s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003068s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.029445s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002937s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.012168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.048396s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005455s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005731s ]
+
+[ 2015-04-17T16:57:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.057518s ]
+INFO: [ route_check ] --END-- [ RunTime:0.057830s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003755s ]
+
+[ 2015-04-17T16:57:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7113555076066405
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004227s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004541s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002758s ]
+
+[ 2015-04-17T16:59:05+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007869s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008447s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007225s ]
+NOTIC: [8] Constant THEME_NAME already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.126573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127098s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004284s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006128s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004182s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021833s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006714s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007053s ]
+
+[ 2015-04-17T16:59:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009780s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010224s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006252s ]
+
+[ 2015-04-17T16:59:07+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008614s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009267s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009845s ]
+NOTIC: [8] Constant THEME_NAME already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.070913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071241s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003242s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003342s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003139s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003391s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014038s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013609s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013879s ]
+
+[ 2015-04-17T16:59:07+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005505s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006102s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005054s ]
+
+[ 2015-04-17T16:59:08+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005196s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005474s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003448s ]
+NOTIC: [8] Constant THEME_NAME already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040806s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002911s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005388s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002551s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017530s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003436s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003643s ]
+
+[ 2015-04-17T16:59:08+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004285s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004552s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005144s ]
+
+[ 2015-04-17T16:59:09+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009433s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009870s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009193s ]
+NOTIC: [8] Constant THEME_NAME already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.062129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062541s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004268s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006858s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004499s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022814s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006414s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006741s ]
+
+[ 2015-04-17T16:59:09+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013988s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014487s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007407s ]
+
+[ 2015-04-17T16:59:17+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011488s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011907s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009746s ]
+NOTIC: [8] Constant THEME_NAME already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined C:\wamp\www\shzu\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.074502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074890s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.016553s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006026s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005887s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.034504s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007581s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007914s ]
+
+[ 2015-04-17T16:59:17+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005467s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005783s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012521s ]
+
+[ 2015-04-17T17:01:32+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006166s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006441s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003753s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035737s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002680s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002793s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002510s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012933s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003824s ]
+
+[ 2015-04-17T17:01:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005274s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005031s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:38+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008012s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008421s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007304s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.072433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072887s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004576s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005070s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021553s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005742s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006089s ]
+
+[ 2015-04-17T17:01:38+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007089s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007487s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005634s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:41+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006852s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007263s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006300s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.058431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058858s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004377s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004916s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003749s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005681s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019718s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009853s ]
+INFO: [ view_end ] --END-- [ RunTime:0.010726s ]
+
+[ 2015-04-17T17:01:41+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006405s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006802s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005532s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:42+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006732s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007128s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005136s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:43+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007717s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008128s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007521s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:44+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006783s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007193s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007234s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:46+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005529s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005843s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004012s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:47+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008252s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005331s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:48+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008872s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009283s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004831s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:49+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008073s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008483s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005911s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:49+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006358s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006760s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005470s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:50+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008237s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008654s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005170s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:51+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006306s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006717s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004878s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:52+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006714s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007128s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005461s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:52+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006514s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006915s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006106s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:01:55+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008435s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008840s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004959s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:02+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006623s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007039s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007258s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:03+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007742s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008166s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005379s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:04+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738?0.9877154065761715
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008581s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007394s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738?0.9877154065761715?0.47738283430226147
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008202s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008592s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004827s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:06+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738?0.9877154065761715?0.47738283430226147?0.27962920744903386
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008900s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009305s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005492s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:18+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738?0.9877154065761715?0.47738283430226147?0.27962920744903386?0.5802095741964877
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005983s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006373s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006755s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:20+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738?0.9877154065761715?0.47738283430226147?0.27962920744903386?0.5802095741964877?0.07613530848175287
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007878s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008282s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007979s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:02:22+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738?0.9877154065761715?0.47738283430226147?0.27962920744903386?0.5802095741964877?0.07613530848175287
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007614s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007998s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003994s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:04:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.7170746184419841?0.200977181782946?0.5889024813659489?0.9837971143424511?0.0532620782032609?0.369561699219048?0.8497331051621586?0.24574005627073348?0.41625607712194324?0.10439996514469385?0.5500346357002854?0.792512928834185?0.7066092507448047?0.9959276469890028?0.7510491202119738?0.9877154065761715?0.47738283430226147?0.27962920744903386?0.5802095741964877?0.07613530848175287
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006323s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006647s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003760s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 430 行.
+
+[ 2015-04-17T17:04:29+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009540s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009989s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005709s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.059231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059685s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004428s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003839s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005148s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019008s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007135s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007471s ]
+
+[ 2015-04-17T17:04:30+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007487s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007801s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007234s ]
+
+[ 2015-04-17T17:04:32+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006818s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007138s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004319s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044264s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002891s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006390s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003018s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016396s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004168s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004420s ]
+
+[ 2015-04-17T17:04:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004382s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004704s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004135s ]
+
+[ 2015-04-17T17:06:22+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006134s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006415s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003672s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.128302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.128594s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002882s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003114s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002566s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012370s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005194s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005475s ]
+
+[ 2015-04-17T17:06:22+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005662s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006071s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003781s ]
+
+[ 2015-04-17T17:06:57+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005525s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005855s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006442s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.072596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073036s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002868s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003177s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002497s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012308s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003908s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004873s ]
+
+[ 2015-04-17T17:06:57+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005102s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005405s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005668s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:07:03+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007828s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008244s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007839s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:07:04+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006708s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007108s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005578s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:07:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007677s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008763s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006057s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:07:07+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006688s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007083s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007512s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:07:08+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007991s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008396s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005415s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:07:09+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007808s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008222s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005452s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:09:29+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008813s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009214s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005045s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:09:30+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008039s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007967s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:09:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008191s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008731s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006674s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:09:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006340s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006763s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004974s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:09:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007587s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008004s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007204s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:09:33+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008003s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005422s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:38+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007139s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007544s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007622s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:39+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008115s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008528s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005224s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:39+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692?0.4173582741059363
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006295s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006858s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005350s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:41+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692?0.4173582741059363?0.37574832513928413
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005829s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006154s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005415s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:42+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692?0.4173582741059363?0.37574832513928413?0.15374747198075056
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007688s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008108s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006178s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:43+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692?0.4173582741059363?0.37574832513928413?0.15374747198075056?0.255083889933303
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006970s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007378s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005470s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:43+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692?0.4173582741059363?0.37574832513928413?0.15374747198075056?0.255083889933303?0.1412054980173707
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005771s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006309s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004826s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:44+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692?0.4173582741059363?0.37574832513928413?0.15374747198075056?0.255083889933303?0.1412054980173707?0.3070666459389031
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008512s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008914s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007034s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:14:45+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5290465406142175?0.1722913016565144?0.34762799669988453?0.2130440236069262?0.03555736504495144?0.718989790417254?0.9110180230345577?0.09975345339626074?0.9255441734567285?0.3674027929082513?0.7787781057413667?0.7142288621980697?0.1252074958756566?0.94885991839692?0.4173582741059363?0.37574832513928413?0.15374747198075056?0.255083889933303?0.1412054980173707?0.3070666459389031?0.8117632889188826
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007255s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007668s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006671s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:17:16+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007994s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008495s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005360s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055916s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004081s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004394s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003649s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017844s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005535s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005905s ]
+
+[ 2015-04-17T17:17:17+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004734s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005149s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003600s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 8 行.
+
+[ 2015-04-17T17:17:20+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005162s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005648s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010118s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061920s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003754s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005211s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018847s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005765s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006096s ]
+
+[ 2015-04-17T17:17:20+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003563s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003873s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004606s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 8 行.
+
+[ 2015-04-17T17:17:31+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006590s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007193s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003661s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041328s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003093s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002798s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002562s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012453s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007332s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007555s ]
+
+[ 2015-04-17T17:17:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004682s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004971s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.030697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030976s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 8 行.
+
+[ 2015-04-17T17:18:26+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008201s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008721s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006381s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.058432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058962s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004269s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006270s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004382s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006065s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022278s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005626s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005953s ]
+
+[ 2015-04-17T17:18:26+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004709s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005024s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004025s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 402 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 8 行.
+
+[ 2015-04-17T17:18:29+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005174s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005964s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008577s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045674s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007577s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005676s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002841s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020341s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005823s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006194s ]
+
+[ 2015-04-17T17:18:29+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004894s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005211s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004096s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 402 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 8 行.
+
+[ 2015-04-17T17:18:30+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008123s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008547s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006443s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.077177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077576s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003300s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003450s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.011559s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023499s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.008153s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008488s ]
+
+[ 2015-04-17T17:18:30+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006151s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006476s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005074s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\Image.class.php 第 402 行.
+NOTIC: [2048] Creating default object from empty value C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 8 行.
+
+[ 2015-04-17T17:25:26+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.050941s ]
+INFO: [ route_check ] --END-- [ RunTime:0.051958s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008024s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.142177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142729s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006014s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005087s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004030s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022313s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005884s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006226s ]
+
+[ 2015-04-17T17:25:26+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005871s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006181s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004765s ]
+
+[ 2015-04-17T17:26:33+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005493s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005808s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003914s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.060885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061250s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003383s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.011581s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003019s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004993s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023986s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004228s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004695s ]
+
+[ 2015-04-17T17:26:33+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005828s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006145s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003130s ]
+
+[ 2015-04-17T17:26:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004274s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004696s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005762s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.108918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109302s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004886s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005922s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005077s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019811s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004186s ]
+INFO: [ view_end ] --END-- [ RunTime:0.010319s ]
+
+[ 2015-04-17T17:26:58+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012281s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012570s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003552s ]
+
+[ 2015-04-17T17:27:47+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008396s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008811s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013482s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004732s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003218s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003051s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015940s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004348s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004600s ]
+
+[ 2015-04-17T17:27:47+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007151s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007547s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006669s ]
+
+[ 2015-04-17T17:27:50+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005123s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005440s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005088s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044321s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005855s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003264s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002807s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016984s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004077s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004328s ]
+
+[ 2015-04-17T17:27:50+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008156s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008532s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007906s ]
+
+[ 2015-04-17T17:28:28+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008740s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008218s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.090142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090440s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002842s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002902s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002584s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014157s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004258s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004482s ]
+
+[ 2015-04-17T17:28:28+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004221s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004495s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005285s ]
+
+[ 2015-04-17T17:28:50+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011054s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012686s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006888s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.129652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130089s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005098s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.014504s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006803s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.008676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.038856s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.018735s ]
+INFO: [ view_end ] --END-- [ RunTime:0.019178s ]
+
+[ 2015-04-17T17:28:50+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005672s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006807s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004527s ]
+
+[ 2015-04-17T17:29:25+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007754s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008168s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005356s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.071621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073246s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004942s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004552s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004743s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019515s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006250s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006584s ]
+
+[ 2015-04-17T17:29:25+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005936s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006336s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004860s ]
+
+[ 2015-04-17T17:29:28+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007304s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007795s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005795s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058447s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003408s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003321s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.008318s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019131s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003794s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004221s ]
+
+[ 2015-04-17T17:29:28+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.124815s ]
+INFO: [ route_check ] --END-- [ RunTime:0.125285s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005150s ]
+
+[ 2015-04-17T17:29:49+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004613s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004894s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005427s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038418s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002903s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003059s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002485s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012366s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003620s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004711s ]
+
+[ 2015-04-17T17:29:49+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004174s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004466s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006989s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:33:41+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009030s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009456s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007403s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.069025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069473s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004043s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005949s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003503s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023656s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006262s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006606s ]
+
+[ 2015-04-17T17:33:41+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009535s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009867s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003642s ]
+
+[ 2015-04-17T17:33:57+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005377s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005648s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003691s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032838s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002632s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004279s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002270s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002985s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013026s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003629s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003851s ]
+
+[ 2015-04-17T17:33:57+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003672s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003940s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002450s ]
+
+[ 2015-04-17T17:33:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005054s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005547s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006620s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.059627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060074s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004423s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006372s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003889s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.035515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.051224s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006857s ]
+INFO: [ view_end ] --END-- [ RunTime:0.007214s ]
+
+[ 2015-04-17T17:33:59+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007536s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007903s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002916s ]
+
+[ 2015-04-17T17:34:11+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006419s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006835s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.010285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011388s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.059766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060205s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006834s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012190s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003730s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031052s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005710s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006043s ]
+
+[ 2015-04-17T17:34:11+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010848s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011356s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003780s ]
+
+[ 2015-04-17T17:34:32+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005291s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005604s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003995s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033657s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002646s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002765s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002309s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003948s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012324s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003482s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003696s ]
+
+[ 2015-04-17T17:34:33+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004403s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004673s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004049s ]
+
+[ 2015-04-17T17:35:01+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009270s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009681s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004947s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.084728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085169s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005537s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004493s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004120s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.013134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.033072s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.013217s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013802s ]
+
+[ 2015-04-17T17:35:02+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004464s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004783s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.021610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021899s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T17:38:13+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.064835s ]
+INFO: [ route_check ] --END-- [ RunTime:0.065277s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.066096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066548s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004197s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004362s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006093s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004780s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020414s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006080s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006412s ]
+
+[ 2015-04-17T17:38:13+08:00 ] 127.0.0.1 /shzu/index.php/Public/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005617s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006044s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003791s ]
+
+[ 2015-04-17T17:38:16+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004725s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005044s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003989s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044017s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003334s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003564s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004449s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015846s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005495s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005746s ]
+
+[ 2015-04-17T17:38:16+08:00 ] 127.0.0.1 /shzu/index.php/Public/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006041s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006363s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004411s ]
+
+[ 2015-04-17T17:38:17+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009077s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009496s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005866s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045647s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.005278s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003439s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002830s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016955s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004067s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004328s ]
+
+[ 2015-04-17T17:38:17+08:00 ] 127.0.0.1 /shzu/index.php/Public/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009241s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010417s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004602s ]
+
+[ 2015-04-17T17:38:42+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006177s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006587s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004362s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.054894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055290s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003078s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002737s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002335s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003006s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011876s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.009090s ]
+INFO: [ view_end ] --END-- [ RunTime:0.009326s ]
+
+[ 2015-04-17T17:38:43+08:00 ] 127.0.0.1 /shzu/index.php/Public/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005225s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005528s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003387s ]
+NOTIC: [8] Undefined index: verify C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 14 行.
+
+[ 2015-04-17T17:38:56+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006561s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006987s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005117s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.053014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053684s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003634s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004962s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003614s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018773s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.007688s ]
+INFO: [ view_end ] --END-- [ RunTime:0.008093s ]
+
+[ 2015-04-17T17:38:56+08:00 ] 127.0.0.1 /shzu/index.php/Public/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005747s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.009143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009536s ]
+
+[ 2015-04-17T17:39:43+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003676s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003950s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009038s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.046034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046405s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.007195s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002759s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002729s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017912s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003367s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003584s ]
+
+[ 2015-04-17T17:39:43+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004617s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004944s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014208s ]
+
+[ 2015-04-17T17:39:45+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015841s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003597s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034263s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002624s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002640s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002302s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011538s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004712s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004945s ]
+
+[ 2015-04-17T17:39:45+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004052s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004329s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004703s ]
+
+[ 2015-04-17T17:42:26+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006979s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008485s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006121s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.121576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121897s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003141s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.012077s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002972s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003911s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022762s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004232s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004451s ]
+
+[ 2015-04-17T17:42:26+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004561s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004837s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003538s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:27+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.030448s ]
+INFO: [ route_check ] --END-- [ RunTime:0.030857s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007227s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:28+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008017s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008494s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005863s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:29+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008067s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008474s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008246s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:30+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006475s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006901s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007102s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007061s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007464s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006638s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007177s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007598s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009257s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008776s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009186s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005819s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:33+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007093s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007482s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005587s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:34+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243?0.6779571934603155
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006948s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007343s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005524s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:37+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243?0.6779571934603155?0.2878994676284492
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008239s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008641s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007005s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:38+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243?0.6779571934603155?0.2878994676284492?0.7586527029052377
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007018s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007071s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:39+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243?0.6779571934603155?0.2878994676284492?0.7586527029052377?0.9233911312185228
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006299s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006712s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005366s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:40+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243?0.6779571934603155?0.2878994676284492?0.7586527029052377?0.9233911312185228?0.23695883597247303
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006937s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007359s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005957s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:41+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243?0.6779571934603155?0.2878994676284492?0.7586527029052377?0.9233911312185228?0.23695883597247303?0.1130827337037772
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007086s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007482s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007451s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:41+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5258642178960145?0.16757405176758766?0.190185425337404?0.02840597089380026?0.9442252959124744?0.6279123756103218?0.8647944570984691?0.5169102088548243?0.6779571934603155?0.2878994676284492?0.7586527029052377?0.9233911312185228?0.23695883597247303?0.1130827337037772?0.15083053335547447
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007425s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007823s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006024s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:09:48+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008756s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009968s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004245s ]
+
+[ 2015-04-17T20:27:01+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008773s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009188s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005600s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.066527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066958s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004168s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004007s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003921s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018978s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005916s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006252s ]
+
+[ 2015-04-17T20:27:01+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.028114s ]
+INFO: [ route_check ] --END-- [ RunTime:0.028524s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007748s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:10+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007954s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008358s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009089s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:10+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091?0.12916558934375644
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.031701s ]
+INFO: [ route_check ] --END-- [ RunTime:0.032105s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005533s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:10+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091?0.12916558934375644?0.124797128373757
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007621s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008018s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006786s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:12+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091?0.12916558934375644?0.124797128373757?0.2574784532189369
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005336s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005765s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003621s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:12+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091?0.12916558934375644?0.124797128373757?0.2574784532189369?0.9084888922516257
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006414s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006943s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003737s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:12+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091?0.12916558934375644?0.124797128373757?0.2574784532189369?0.9084888922516257?0.6863108496181667
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004603s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004992s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004299s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:13+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091?0.12916558934375644?0.124797128373757?0.2574784532189369?0.9084888922516257?0.6863108496181667?0.19254164048470557
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006561s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007074s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003974s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:27:13+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.5727604785934091?0.12916558934375644?0.124797128373757?0.2574784532189369?0.9084888922516257?0.6863108496181667?0.19254164048470557?0.3907400604803115
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005316s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005719s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004114s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 2 行.
+NOTIC: [8] Undefined index: act C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 4 行.
+NOTIC: [8] Undefined index: code C:\wamp\www\shzu\ThinkPHP\Extend\Library\ORG\Util\chk_code.class.php 第 5 行.
+
+[ 2015-04-17T20:28:57+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007957s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009091s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006864s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.056622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057005s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003378s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003550s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002782s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015646s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004430s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004726s ]
+
+[ 2015-04-17T20:28:58+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006588s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007058s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004020s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:21+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008055s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008556s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005887s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:22+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006536s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007088s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005159s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:23+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006040s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006576s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005111s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:24+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012421s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012854s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005876s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:24+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006144s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006554s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005329s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:25+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006235s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006792s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013960s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:26+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005962s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006452s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005732s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:27+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006250s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006645s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006827s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:28+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005992s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006399s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004677s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:29+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007673s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008068s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004523s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:30+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006480s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006891s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005812s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009504s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009910s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005334s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:34+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213?0.7108565855305642
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007423s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007820s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005846s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:35+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213?0.7108565855305642?0.5403073320630938
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006511s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007009s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005542s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:36+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213?0.7108565855305642?0.5403073320630938?0.07200613035820425
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007782s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008184s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006957s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:36+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213?0.7108565855305642?0.5403073320630938?0.07200613035820425?0.641595613444224
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007071s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006091s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:37+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213?0.7108565855305642?0.5403073320630938?0.07200613035820425?0.641595613444224?0.7265958550851792
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007596s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008138s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004789s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:38+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213?0.7108565855305642?0.5403073320630938?0.07200613035820425?0.641595613444224?0.7265958550851792?0.213089864468202
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005048s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005899s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003423s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:39+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3846799328457564?0.22154607018455863?0.3507710800040513?0.6644968739710748?0.3189315677154809?0.8826293074525893?0.09702007123269141?0.008154283976182342?0.9189990560989827?0.7264287935104221?0.22337585827335715?0.9049275962170213?0.7108565855305642?0.5403073320630938?0.07200613035820425?0.641595613444224?0.7265958550851792?0.213089864468202?0.9777002711780369
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008495s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008914s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006189s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T20:44:55+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008454s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008866s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005536s ]
+
+[ 2015-04-17T20:51:00+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.014047s ]
+INFO: [ route_check ] --END-- [ RunTime:0.014472s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005510s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+NOTIC: [8] Undefined index: verify C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.221104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.221502s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002997s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004230s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002910s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015327s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003857s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004104s ]
+
+[ 2015-04-17T21:28:42+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008822s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009536s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004726s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+NOTIC: [8] Undefined index: verify C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056496s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003390s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003527s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003090s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017912s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004253s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004639s ]
+
+[ 2015-04-17T21:28:47+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3615174691658467
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007435s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007949s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004451s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:28:48+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3615174691658467?0.14285505306906998
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008444s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008847s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009032s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:28:49+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3615174691658467?0.14285505306906998?0.4497171435505152
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006313s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006801s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005649s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:28:49+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3615174691658467?0.14285505306906998?0.4497171435505152?0.5364100567530841
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006391s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006783s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003985s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:28:50+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3615174691658467?0.14285505306906998?0.4497171435505152?0.5364100567530841?0.8991066997405142
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006120s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006524s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007830s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:28:51+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.3615174691658467?0.14285505306906998?0.4497171435505152?0.5364100567530841?0.8991066997405142?0.28742193430662155
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006031s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006678s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004581s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:28:58+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007852s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008264s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017151s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+NOTIC: [8] Undefined index: verify C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.063266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063700s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004299s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005431s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003911s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019244s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005665s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006211s ]
+
+[ 2015-04-17T21:29:02+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.09355280897580087
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004901s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005384s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003932s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:03+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.09355280897580087?0.5373544318135828
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006842s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007241s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004417s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:04+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.09355280897580087?0.5373544318135828?0.08688027085736394
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012971s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013391s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023047s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:05+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.09355280897580087?0.5373544318135828?0.08688027085736394?0.4940281540621072
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007005s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003836s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:06+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.09355280897580087?0.5373544318135828?0.08688027085736394?0.4940281540621072?0.22527788602747023
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006237s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006644s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003673s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:07+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.09355280897580087?0.5373544318135828?0.08688027085736394?0.4940281540621072?0.22527788602747023?0.4142780904658139
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016451s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017160s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004003s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:09+08:00 ] 127.0.0.1 /shzu/index.php/Public/code?0.09355280897580087?0.5373544318135828?0.08688027085736394?0.4940281540621072?0.22527788602747023?0.4142780904658139?0.1304034600034356
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007984s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008408s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005084s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:40+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.023583s ]
+INFO: [ route_check ] --END-- [ RunTime:0.024095s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004123s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.061474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061908s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004054s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005562s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005111s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019885s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005547s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005896s ]
+
+[ 2015-04-17T21:29:40+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004625s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004937s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003980s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:29:50+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009399s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009688s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.018212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018469s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.055240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055532s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003331s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002736s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002475s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013363s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005048s ]
+INFO: [ view_end ] --END-- [ RunTime:0.009108s ]
+
+[ 2015-04-17T21:29:50+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004905s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005203s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007310s ]
+NOTIC: [8] Use of undefined constant png - assumed 'png' C:\wamp\www\shzu\Home\Lib\Action\PublicAction.class.php 第 7 行.
+
+[ 2015-04-17T21:30:10+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004503s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004812s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003193s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.049368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049736s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003364s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003499s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002785s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.009457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019921s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005488s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005753s ]
+
+[ 2015-04-17T21:30:10+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016426s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016741s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003198s ]
+
+[ 2015-04-17T21:30:25+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018318s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018756s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.035847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036335s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.107024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107357s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006936s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003127s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.015646s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.032312s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004488s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004744s ]
+
+[ 2015-04-17T21:30:26+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007467s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007839s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003677s ]
+
+[ 2015-04-17T21:30:33+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007466s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007889s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007110s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+NOTIC: [8] Undefined index: verify C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050148s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050548s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003665s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003168s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003497s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015320s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003936s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004188s ]
+
+[ 2015-04-17T21:31:18+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006040s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007526s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004366s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.019752s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` LIMIT 1   [ RunTime:0.001366s ]
+
+[ 2015-04-17T21:31:18+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004715s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005045s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004668s ]
+ERR: 无法加载模块:User
+
+[ 2015-04-17T21:31:51+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006847s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007255s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006252s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.016642s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` LIMIT 1   [ RunTime:0.001183s ]
+
+[ 2015-04-17T21:31:51+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018707s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019080s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003728s ]
+ERR: 无法加载模块:User
+
+[ 2015-04-17T21:34:42+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006970s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007371s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007054s ]
+ERR: 非法操作:index.html
+
+[ 2015-04-17T21:34:43+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003677s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004063s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006750s ]
+ERR: 非法操作:index.html
+
+[ 2015-04-17T21:34:45+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005177s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005584s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012680s ]
+ERR: 非法操作:index.html
+
+[ 2015-04-17T21:35:18+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005784s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006208s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008026s ]
+ERR: 非法操作:index.html
+
+[ 2015-04-17T21:35:20+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005470s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005882s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007138s ]
+ERR: 非法操作:index.html
+
+[ 2015-04-17T21:35:21+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011644s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012254s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007730s ]
+ERR: 非法操作:index.html
+
+[ 2015-04-17T21:35:26+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005313s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005653s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003772s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045431s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002948s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003377s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003946s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014498s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012313s ]
+INFO: [ view_end ] --END-- [ RunTime:0.012568s ]
+
+[ 2015-04-17T21:35:26+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004886s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005197s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003743s ]
+
+[ 2015-04-17T21:35:28+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005090s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005507s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005088s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.092586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093447s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003069s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003365s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.012297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.005452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025179s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004256s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004517s ]
+
+[ 2015-04-17T21:35:37+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016147s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016485s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003936s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.018795s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` LIMIT 1   [ RunTime:0.001607s ]
+
+[ 2015-04-17T21:35:38+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006598s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007216s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004137s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040400s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003388s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005490s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002796s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.011667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024113s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006414s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006676s ]
+
+[ 2015-04-17T21:35:55+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005514s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005973s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.030086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030533s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.044644s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` LIMIT 1   [ RunTime:0.001216s ]
+
+[ 2015-04-17T21:35:55+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003775s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004085s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003596s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.050026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050437s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003632s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003111s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003225s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014210s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003967s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004219s ]
+
+[ 2015-04-17T21:49:56+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.024079s ]
+INFO: [ route_check ] --END-- [ RunTime:0.024403s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.013868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014161s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.030314s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = 'qwrf' ) LIMIT 1   [ RunTime:0.001437s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053156s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003270s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003083s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002656s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003358s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013115s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004774s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005058s ]
+
+[ 2015-04-17T21:52:06+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007351s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007655s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004258s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.017789s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '2014508010' ) LIMIT 1   [ RunTime:0.001436s ]
+
+[ 2015-04-17T21:52:06+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005362s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005636s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002727s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035706s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002559s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003133s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002429s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011968s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004035s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004313s ]
+
+[ 2015-04-17T23:04:26+08:00 ] 127.0.0.1 /shzu/index.php/User/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010545s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011038s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005009s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.052187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052662s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003159s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004644s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014468s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004845s ]
+
+[ 2015-04-17T23:04:29+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004052s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004330s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002722s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.041070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041353s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002863s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.016192s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002283s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025427s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003765s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003985s ]
+
+[ 2015-04-17T23:04:29+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003981s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004269s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003062s ]
+
+[ 2015-04-17T23:04:30+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006322s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006835s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005419s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.057515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057882s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003068s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003178s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002483s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013014s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005118s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005376s ]
+
+[ 2015-04-17T23:04:30+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.034769s ]
+INFO: [ route_check ] --END-- [ RunTime:0.035109s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004295s ]
+
+[ 2015-04-17T23:04:31+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006893s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007232s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003372s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047732s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002970s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003112s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003074s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014599s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004355s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004605s ]
+
+[ 2015-04-17T23:04:31+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003725s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003990s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004304s ]
+
+[ 2015-04-17T23:04:32+08:00 ] 127.0.0.1 /shzu/index.php/Login/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007686s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008097s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004287s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.105039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.105526s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004447s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004304s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.006625s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022800s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005963s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006342s ]
+
+[ 2015-04-17T23:04:32+08:00 ] 127.0.0.1 /shzu/index.php/Public/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006503s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006932s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003313s ]
+
+[ 2015-04-17T23:08:19+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007880s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008151s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004573s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043232s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.006387s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003799s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002487s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016529s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004553s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004781s ]
+
+[ 2015-04-17T23:08:27+08:00 ] 127.0.0.1 /shzu/index.php/Login/do_login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006082s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006409s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006506s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\shzu\Home\Lib\Action\LoginAction.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `shzu_imformation` [ RunTime:0.020862s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `shzu_imformation` WHERE ( `username` = '' ) LIMIT 1   [ RunTime:0.002395s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045835s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003869s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003683s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.005967s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.061169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.132947s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.006367s ]
+INFO: [ view_end ] --END-- [ RunTime:0.006648s ]
+
